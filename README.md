@@ -1,10 +1,10 @@
-# organic-apples
+# spot-my-search
 Datavant Future of Healthcare Hackathon Submission 2022!
 
 Running instructions:
 Please run this tool with the developer console open. If you type in "instagram", "twitter", or "facebook" into the Google search bar, you should see that a warning pops up. If no warning comes up, we suggest refreshing.
 
-Team members: Anoushka Shrivastava, Preethi Krishnamoorthy (https://github.com/preethikrishnamoorthy/organic-apples)
+This is a copy of the repo my team member (Preethi Krishnamoorthy) and I created at https://github.com/preethikrishnamoorthy/organic-apples.
 
 Tutorials used:
 https://developer.chrome.com/docs/extensions/mv3/messaging/: referenced example for querying tabs in popup.js and adding listener in content-script.js, but modified with our own functions as necessary
